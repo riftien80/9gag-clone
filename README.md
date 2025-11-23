@@ -1,4 +1,4 @@
-# 9GAG Clone --- Fullstack Open Source Project
+# 9GAG Clone - Fullstack Open Source Project
 
 ![screen](https://arcdevoff.site/portfolio/9gag.png)
 
@@ -221,7 +221,7 @@ You can change it in `.env`:
 
 ## 📝 License
 
-MIT License --- free to use, modify and distribute.
+MIT License - free to use, modify and distribute.
 
 ---
 
